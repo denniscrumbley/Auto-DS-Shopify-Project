@@ -1,2 +1,2 @@
-# Auto-DS-Shopify-Project
-Continuous Workflow Integration 
+# denniscrumbley/lnw-ascension-protocol 
+
